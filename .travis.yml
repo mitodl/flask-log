@@ -1,0 +1,13 @@
+language: python
+python:
+  - 2.7
+install:
+  - pip install -e .
+  - pip install -r test_requirements.txt
+  - pip install coveralls
+script:
+  - nosetests --with-coverage --cover-package=flask_log
+  - pep8 *.py
+  - pylint *.py
+after_success:
+  coveralls

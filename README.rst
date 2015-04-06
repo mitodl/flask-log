@@ -54,3 +54,11 @@ Features
 
     flask_logger = Logging(app)
     flask_logger.set_formatter('Log message follows: %(message)s')
+
+Links
+`````
+
+- `documentation
+   <https://github.com/mitodl/flask-log/blob/master/README.rst>`_
+- `development version
+  <https://github.com/mitodl/flask-log/archive/master.tar.gz#egg=flask-log-dev>`_

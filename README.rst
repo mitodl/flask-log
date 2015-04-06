@@ -7,6 +7,10 @@ Flask-Log
     :target: https://coveralls.io/r/mitodl/flask-log
 .. image:: https://img.shields.io/github/issues/mitodl/flask-log.svg
     :target: https://github.com/mitodl/flask-log/issues
+.. image:: https://img.shields.io/pypi/dm/flask-log.svg
+    :target: https://pypi.python.org/pypi/flask-log/0.1.0
+.. image:: https://img.shields.io/pypi/v/flask-log.svg
+    :target: https://pypi.python.org/pypi/flask-log/0.1.0
 .. image:: https://img.shields.io/badge/license-BSD-blue.svg
     :target: https://github.com/mitodl/flask-log/blob/master/LICENSE
 

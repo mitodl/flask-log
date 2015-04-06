@@ -1,5 +1,6 @@
 Flask-Log
 ---------
+
 .. image:: https://img.shields.io/travis/mitodl/flask-log.svg
     :target: https://travis-ci.org/mitodl/flask-log
 .. image:: https://img.shields.io/coveralls/mitodl/flask-log.svg
@@ -58,7 +59,5 @@ Features
 Links
 `````
 
-- `documentation
-   <https://github.com/mitodl/flask-log/blob/master/README.rst>`_
-- `development version
-  <https://github.com/mitodl/flask-log/archive/master.tar.gz#egg=flask-log-dev>`_
+- `documentation <https://github.com/mitodl/flask-log/blob/master/README.rst>`_
+- `development version <https://github.com/mitodl/flask-log/archive/master.tar.gz#egg=flask-log-dev>`_

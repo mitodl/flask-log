@@ -3,6 +3,14 @@ Flask-Log
 ---------
 This is a handy flask extension for setting up logging for your
 application that is super simple to setup.
+
+Links
+`````
+
+- `documentation
+   <https://github.com/mitodl/flask-log/blob/master/README.rst>`_
+- `development version
+  <https://github.com/mitodl/flask-log/archive/master.tar.gz#egg=flask-log-dev>`_
 """
 from setuptools import setup
 
@@ -15,7 +23,7 @@ with open('test_requirements.txt') as test_reqs:
 
 setup(
     name='flask-log',
-    version='0.0.0',
+    version='0.1.0',
     url='http://github.com/mitodl/flask-log',
     license='BSD',
     author='MIT ODL Engineering',
